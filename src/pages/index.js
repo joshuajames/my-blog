@@ -145,8 +145,10 @@ const IndexPage = () => {
         <span role="img" aria-label="Sunglasses smiley emoji">
           😎
         </span>
-
-        <Link to="/about">About</Link>
+<p>
+<Link to="/about">Here's an About page that I've just added...</Link>
+</p>
+        
 
       </p>
       <ul style={listStyles}>
